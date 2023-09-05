@@ -1,0 +1,9 @@
+*{
+    font-family: 'Inter',
+    sans-serif;
+}
+
+.active-btn{
+    background-color: rgb(104, 6, 6);
+    color: white;
+}
